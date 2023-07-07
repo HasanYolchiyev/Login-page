@@ -1,0 +1,41 @@
+.loginpage{
+    height: 100vh;
+    background-color: #ffffffec;
+    display: flex;
+}
+.login-card{
+   
+    width:849px;
+    height: 700px;
+    border: 1px solid #f7f8f8f8;
+    background-color: #f7f8f8f8 ; 
+}
+.login-img img{
+    width:649px;
+    height: 700px;
+}
+button{
+    background-color:tomato;
+    color:white;
+    width:50%;
+    height:30px;
+    cursor: pointer
+} 
+input{
+    width:50%;
+    height:30px;
+    cursor: pointer
+}
+label{
+    padding-right: 40%;
+}
+h2{
+    padding-right: 25%;
+}
+form{
+    padding-top: 50px;
+}
+ul li{
+    padding-left: 30%;
+    list-style-type: none;
+}
